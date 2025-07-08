@@ -14,13 +14,14 @@ Ultilazando conceitos de API , trazendo em metodos de uma API externa , para rec
 <br>
 <br>
 
-![{3E4990B5-243A-43C2-B0AA-4B3C09991D1D}](https://github.com/user-attachments/assets/9b977b02-f438-4eb8-a0df-7a87ca39c681)
+![{5DC5C727-15D8-4910-A2FC-541BDB503DF6}](https://github.com/user-attachments/assets/28c51d35-6fd2-466e-938f-db7275b1a1a7)
+
 <br>
 <br>
 <br>
-![{EA1DB68E-B478-4A45-A951-D5EA8A3246E8}](https://github.com/user-attachments/assets/365cba35-4323-4b90-a1a3-80a0838adb57)
+![{B5A21EC3-15D0-44C7-BF80-729A47551930}](https://github.com/user-attachments/assets/a6a2c31d-c7e8-4f9d-84ae-7e01b5edd9f6)
+
 <br>
 <br>
 <br>
-![{65DF89F6-6581-4BDD-A64F-31D9418A7AF5}](https://github.com/user-attachments/assets/76586059-24be-4b1f-b141-6e7b63087adf)
 
