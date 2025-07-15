@@ -1,11 +1,10 @@
 
-DevMoves
+CarStore
 <br>
 <br>
-Interface de uma "copia" de uma NetFlix.
+Interface simples car store , atividade baseada no video de Dev Club, para treinar coceitos de programação
 <br>
 <br>
-Ultilazando conceitos de API , trazendo em metodos de uma API externa , para recriar uma pagína de filmes.
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
